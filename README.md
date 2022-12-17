@@ -3,7 +3,6 @@
 <!--
 **KilicEness/KilicEness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
 
 - 🔭 I’m currently Software Engineering and Industrial Engineering student. 
 - 🌱 I’m currently learning React.js, Laravel framework, Spring framework
