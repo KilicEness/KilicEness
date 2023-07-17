@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently Software Engineering and Industrial Engineering student. 
-- 🌱 I’m currently learning JavaScript, Node.js, Spring framework
+- 🌱 I’m currently learning JavaScript, Node.js, Flutter
 - 💬 Ask me about HTML, CSS, JavaScript
 - 📫 How to reach me: eneskiliicc06@gmail.com
 - ⚡ Fun fact: I'm 6.3 feet
